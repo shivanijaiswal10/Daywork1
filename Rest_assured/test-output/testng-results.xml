@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-12T19:31:29 IST" name="Default suite" finished-at="2024-07-12T19:31:43 IST" duration-ms="14414">
+    <groups>
+    </groups>
+    <test started-at="2024-07-12T19:31:29 IST" name="Default test" finished-at="2024-07-12T19:31:43 IST" duration-ms="14414">
+      <class name="api_testing.reqres">
+        <test-method signature="ListOfviewrs()[pri:0, instance:api_testing.reqres@729d991e]" started-at="2024-07-12T19:31:29 IST" name="ListOfviewrs" finished-at="2024-07-12T19:31:41 IST" duration-ms="12108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListOfviewrs -->
+        <test-method signature="create()[pri:0, instance:api_testing.reqres@729d991e]" started-at="2024-07-12T19:31:41 IST" name="create" finished-at="2024-07-12T19:31:42 IST" duration-ms="1009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method signature="single_user()[pri:0, instance:api_testing.reqres@729d991e]" started-at="2024-07-12T19:31:42 IST" name="single_user" finished-at="2024-07-12T19:31:42 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- single_user -->
+        <test-method signature="single_usernot_found()[pri:0, instance:api_testing.reqres@729d991e]" started-at="2024-07-12T19:31:42 IST" name="single_usernot_found" finished-at="2024-07-12T19:31:43 IST" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- single_usernot_found -->
+      </class> <!-- api_testing.reqres -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
